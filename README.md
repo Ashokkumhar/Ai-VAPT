@@ -88,4 +88,4 @@ npm run build
 
 🛡️ Philosophy
 “Security is no more an option — Privacy by design, trust by vision.”
-— Vikram Raj Kumar Majji
+— Ashok Kumhar
