@@ -48,6 +48,10 @@ AI-assisted Bug Bounty Recon
 SOC Validation Testing
 Compliance Audits (ISO 27001, NIST, PCI-DSS, etc.)
 
+First Download Ai-VAPT.zip
+unzip the file
+Run Below Command in terminal 
+
 🧩 1. Prerequisites
 #Make sure you have Node.js and npm (or yarn/pnpm) installed:
 node -v
@@ -58,8 +62,6 @@ sudo apt update
 sudo apt install nodejs npm -y
 
 🚀 Getting Started
-# Clone the repository
-git clone https://github.com/vikramrajkumarmajji/AI-VAPT.git
 
 # Navigate to project folder
 cd AI-VAPT
