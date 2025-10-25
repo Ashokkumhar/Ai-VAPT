@@ -70,7 +70,7 @@ sudo apt install nodejs npm -y
 
 🚀 Getting Started
 # Clone the repository
-git clone https://github.com/vikramrajkumarmajji/AI-VAPT.git
+git clone https://github.com/Ashokkumhar/Ai-VAPT.git
 
 # Navigate to project folder
 cd AI-VAPT
@@ -103,4 +103,4 @@ npm run build
 🛡️ Philosophy
 
 “Security is no more an option — Privacy by design, trust by vision.”
-— Vikram Raj Kumar Majji
+— Ashok Kumhar
