@@ -31,37 +31,46 @@ Recon Layer	Subdomain, DNS, Port, Directory, and Service enumeration using hybri
 Vulnerability Layer	CVE mapping, version fingerprinting, misconfiguration detection, and exploit validation.
 Exploitation Layer	Controlled exploitation simulation and payload validation (safe mode).
 Reporting Layer	Risk-based visual reporting engine with auto-generated insights and recommendations.
-
 🧰 Integrated Tools
+
 Reconnaissance: Amass, Subfinder, Nmap, Shodan API, CRT.sh
+
 Web Scanning: Nikto, Dirsearch, Wapiti, BurpSuite API
+
 Exploit Mapping: CVE Trends, Exploit-DB, ML-based CVE Exploitability Model
+
 Post-Exploitation: Metasploit integration, local privilege check, token dumping modules
+
 Reporting: AI-generated executive and technical summaries
 
 ![AI-VAPT Flowchart](Flowchart.png)
 
 🧑‍💻 Use Cases
+
 Automated Red Team Assessments
+
 Continuous Vulnerability Management
+
 AI-assisted Bug Bounty Recon
+
 SOC Validation Testing
+
 Compliance Audits (ISO 27001, NIST, PCI-DSS, etc.)
 
-First Download Ai-VAPT.zip
-unzip the file
-Run Below Command in terminal 
-
 🧩 1. Prerequisites
+
 #Make sure you have Node.js and npm (or yarn/pnpm) installed:
 node -v
 npm -v
+
 
 #If not installed, run:
 sudo apt update
 sudo apt install nodejs npm -y
 
 🚀 Getting Started
+# Clone the repository
+git clone https://github.com/vikramrajkumarmajji/AI-VAPT.git
 
 # Navigate to project folder
 cd AI-VAPT
@@ -75,17 +84,23 @@ yarn install
 # Start the development server
 npm run dev
 
+
 Then open the displayed local URL (usually http://localhost:5173) in your browser.
 
 # (Optional) Build for production
 npm run build
 
 📈 Future Roadmap
+
 🔹 Integration with LLM-based reasoning engines for contextual vulnerability explanation
+
 🔹 Real-time exploit chain mapping visualization
+
 🔹 Threat intelligence enrichment through OSINT automation
+
 🔹 Cloud-native agent for AWS, Azure, and GCP audits
 
 🛡️ Philosophy
+
 “Security is no more an option — Privacy by design, trust by vision.”
-— Ashok Kumhar
+— Vikram Raj Kumar Majji
